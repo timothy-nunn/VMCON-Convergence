@@ -1,0 +1,4 @@
+plotly>=5.0
+numpy>=1.26
+PyVMCON>=2.1
+pandas>=2.0
